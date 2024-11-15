@@ -1,4 +1,4 @@
-This is the project using next js , supabase and many library!
+This is the project using React js,React router dom , supabase and many library!
 
 Website link -https://oasis-th-co.vercel.app
 Use this email & password to enter 
